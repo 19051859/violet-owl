@@ -1,19 +1,18 @@
 ---
-title: Ultricies aliquam
+title: Strategies
 content_img_path: images/pic04.jpg
 home_spotlights:
   enabled: true
   weight: 3
-  excerpt: >-
-    Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
+  excerpt: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
+    eu ultricies erat malesuada quis. Aliquam dapibus.
   home_img:
     path: images/pic03.jpg
     data_position: 25% 25%
-    url: '#'
+    url: "#"
 layout: page
+
 ---
+**1. My strategy approach is low cost as this in turn, creates a competitive advantages.**
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+**2. As Entrepreneurs, I would like to use my innovated Idea that will help people to earn money without investing a single penny. There are many companies who are currently doing this project, but it will be the next Generation Solution for the existing business which will allow anybody can easily afford it without thinking twice.**
