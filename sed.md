@@ -11,6 +11,9 @@ home_spotlights:
     data_position: center center
     url: "#"
 layout: page
+menu:
+  main:
+    weight: 4
 
 ---
 In my venture, Financial Risk is the big one. It refers to our ability to maintain its revenue and economy leverage. A business concept which looks perfect on paper may sometime hard to prove in real world.

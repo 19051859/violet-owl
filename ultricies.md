@@ -11,6 +11,10 @@ home_spotlights:
     data_position: 25% 25%
     url: "#"
 layout: page
+menu:
+  main:
+    title: STRATEGIES
+    weight: 3
 
 ---
 **1. My strategy approach is low cost as this in turn, creates a competitive advantages.**

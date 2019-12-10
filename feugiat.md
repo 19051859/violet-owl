@@ -11,6 +11,9 @@ home_spotlights:
     data_position: top center
     url: "#"
 layout: page
+menu:
+  main:
+    weight: 6
 
 ---
 Startups are high risk, high gain game. To start a new business we will need money to get this off the ground. Below is the table of my cost cutting.

@@ -1,6 +1,9 @@
 ---
 title: MARKETING
 content_img_path: "/images/2.jpeg"
+menu:
+  main:
+    weight: 5
 
 ---
 1\. Before renting a car to stranger, every customer will be in dilemma to rent a car, to remove that chaos we are going to describe everything about our company. We are dedicated to our work which not only strengthening the communities but build healthy relationship with customers and employees by providing comfortable services with genuine price. We are also providing convenient, inexpensive and safest car which increase the enthusiasm and confidence level of a customer.

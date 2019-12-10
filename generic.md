@@ -12,7 +12,7 @@ home_spotlights:
     url: ''
 menu:
   main:
-    title: Generic
+    title: VISION
     weight: 2
 
 ---
