@@ -17,9 +17,10 @@ sidebar:
 sections:
 - type: intro
   template: intro
-  title: Hyperspace
-  subtitle: "Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  \ncol
-    accumsan est arcu donec sed Eleifend Integer."
+  title: Blaze wheel
+  subtitle: Blaze Wheel is an idea built where people from USA, Canada can rent their
+    personal car to someone else without any fear and to make money even on vacation
+    mode without investing a single penny.
   section_id: intro
   background_style: style1
   actions:
@@ -87,11 +88,13 @@ sections:
       12345 Somewhere Road #654
       Nashville, TN 00000-0000
       USA
+    url: ''
   - title: Email
     text: user@Hyperspace.tld
     url: "#"
   - title: Phone
     text: "(000) 000-0000"
+    url: ''
   social:
     title: Social
     social_icons:
