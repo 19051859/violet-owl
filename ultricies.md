@@ -1,6 +1,6 @@
 ---
 title: Strategies
-content_img_path: images/pic04.jpg
+content_img_path: "/images/car-rental.jpeg"
 home_spotlights:
   enabled: true
   weight: 3
