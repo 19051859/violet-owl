@@ -1,6 +1,6 @@
 ---
 title: Vision
-content_img_path: images/pic04.jpg
+content_img_path: "/images/RentalCarLG.jpeg"
 layout: page
 home_spotlights:
   enabled: false
