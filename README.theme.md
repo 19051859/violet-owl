@@ -1,41 +1,14 @@
-# Hyperspace
+---
+title: MARKETING
+content_img_path: "/images/2.jpeg"
 
-A multi-page theme with scroll-animated home sections for Stackbit. [Live Demo](https://themes.stackbit.com/demos/hyperspace/blue)
+---
+1\. Before renting a car to stranger, every customer will be in dilemma to rent a car, to remove that chaos we are going to describe everything about our company. We are dedicated to our work which not only strengthening the communities but build healthy relationship with customers and employees by providing comfortable services with genuine price. We are also providing convenient, inexpensive and safest car which increase the enthusiasm and confidence level of a customer.
 
-[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-hyperspace)
+2\. Our main motto is on customer safety, we will ensure about the car health like engine health, odometer reading and insurance of the car. We will also have program which we named car accidental insurance, which only be covered by insurance company.
 
-### Turn themes into CMS-powered websites
+3\. We are providing the 24 by 7 hours services to our customers and we will remain same on our commitment. In order to develop our business, we are able to clearly and confidently defines what our company doing for gaining the confidence of customer.
 
-[Stackbit](https://www.stackbit.com/) provisions your theme's content model with a growing selection of headless CMS and pulls the content for you in the format your static site generator expects it. This is powered by a single config file, [stackbit.yaml](https://docs.stackbit.com/uniform/stackbit-yaml/), which defines a [Uniform theme model](https://docs.stackbit.com/uniform/) and enables integration with CMS like Contentful, DatoCMS, Forestry, NetlifyCMS, etc.
+4\. Our sales team will likely to have best input to find out what people are expecting the most interest. In order to maintain that we will offer free car upgrade program per year, which we rise not economically but socially as well.
 
-### One theme codebase converts to multiple Static Site Generators
-
-This theme in particular is written in [Unibit](https://docs.stackbit.com/unibit/), a superset of static site generators. Unibit's powerful transpiling engine enables you to write once and stay SSG agnostic. Themes will automatically work with new generators as they are added and can currently convert to Jekyll, Hugo & Gatsby.
-
-## Quickstart
-
-### Unibit CLI
-
-Develop locally using the Unibit CLI. 
-
-```
-npm install -g @stackbit/unibit
-```
-
-Start the local development server. 
-
-```
-unibit develop
-```
-
-Compile a production build into the `public` folder.
-
-```
-unibit build
-```
-
-### CodeSandbox
-
-Develop this theme in the browser using CodeSandbox.
-
-[Fork in CodeSandbox](https://codesandbox.io/s/github/stackbithq/stackbit-theme-hyperspace)
+5\. we will focus more on customer needs, for retaining the attention of customer, we will be offering great deals to our customer, there will not be such compulsion to have membership program and others will not get same benefits
