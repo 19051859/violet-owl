@@ -1,19 +1,31 @@
 ---
-title: Feugiat consequat
-content_img_path: images/pic04.jpg
+title: FINANCE
+content_img_path: "/images/3.jpeg"
 home_spotlights:
   enabled: true
   weight: 2
-  excerpt: >-
-    Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
+  excerpt: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
+    eu ultricies erat malesuada quis. Aliquam dapibus.
   home_img:
     path: images/pic02.jpg
     data_position: top center
-    url: '#'
+    url: "#"
 layout: page
+
 ---
+Startups are high risk, high gain game. To start a new business we will need money to get this off the ground. Below is the table of my cost cutting.
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
+     **ITEMS                               COST PER YEAR              REFERENCE**
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+* Contract Agreement           $ 4200
+
+  of health Insurance
+* Contract with Google         $ 124
+
+  play store & Apple
+* Server Host Cost                $ 100,000
+* Government Ontario          $ 150
+
+  License 
+* Profit of Me                        $ 80,000                             Min wage $15/hrs
+* RFP                                     $ 10,000                            $ 10/hrs minimum
